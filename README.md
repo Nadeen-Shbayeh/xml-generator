@@ -16,14 +16,14 @@ This XML format can be used for API responses or data interchange between system
 
 ## Files
 
-- `XML_EXAMPLE.php`: A PHP script that generates the `university_data.xml` file.
+- `xml_generator.php`: A PHP script that generates the `university_data.xml` file.
 - `university_data.xml`: The generated XML file containing student, course, and registration data.
 
 ## How to Use
 
 1. Clone this repository.
-2. Run the `XML_EXAMPLE.php` script using PHP.
+2. Run the `xml_generator.php` script using PHP.
 
    ```bash
-   php XML_EXAMPLE.php
+   php xml_generator.php
 
